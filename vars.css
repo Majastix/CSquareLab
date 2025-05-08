@@ -1,0 +1,48 @@
+/* Figma Styles of your File */
+:root {
+    /* Colors */
+    --brand-color: linear-gradient(to left, #e0750b, #e0750b);
+    --secondary: #a6c6dd;
+    --background: linear-gradient(to left, #0f1a1a, #0f1a1a);
+    --text: #f6f9fc;
+    --orange-fade: linear-gradient(
+      -90deg,
+      rgba(168, 88, 8, 0.38) 0%,
+      rgba(0, 0, 0, 0.75) 65.50262570381165%
+    );
+    --small-pic-gradient: radial-gradient(
+      closest-side,
+      rgba(0, 0, 0, 0) 53.42856049537659%,
+      rgba(244, 139, 31, 0.3) 100%
+    );
+  
+    /* Fonts */
+    --text-body-font-family: Spartan-Regular, sans-serif;
+    --text-body-font-size: 18px;
+    --text-body-line-height: 28.8px;
+    --text-body-font-weight: 400;
+    --text-body-font-style: normal;
+    --headline-font-family: Spartan-SemiBold, sans-serif;
+    --headline-font-size: 36px;
+    --headline-line-height: 120%;
+    --headline-font-weight: 600;
+    --headline-font-style: normal;
+    --subheading-font-family: Spartan-Medium, sans-serif;
+    --subheading-font-size: 32px;
+    --subheading-line-height: 120%;
+    --subheading-font-weight: 500;
+    --subheading-font-style: normal;
+    --heading-font-family: Spartan-Medium, sans-serif;
+    --heading-font-size: 36px;
+    --heading-line-height: 120%;
+    --heading-font-weight: 500;
+    --heading-font-style: normal;
+    --hero-text-font-family: Spartan-Regular, sans-serif;
+    --hero-text-font-size: 28px;
+    --hero-text-line-height: 36px;
+    --hero-text-font-weight: 400;
+    --hero-text-font-style: normal;
+  
+    /* Effects */
+  }
+  
